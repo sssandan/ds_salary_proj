@@ -12,4 +12,5 @@ What I have learned so far are these skills (All still very new to me):
 5. Model Building
 6. Production 
 
-We have gone over steps 1 and 2. 
+##resources
+
