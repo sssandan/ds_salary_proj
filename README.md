@@ -12,4 +12,9 @@ What I have learned so far are these skills (All still very new to me):
 5. Model Building
 6. Production
 
+<<<<<<< HEAD
 We have gone over steps 1 and 2.
+=======
+##resources
+
+>>>>>>> 97843e69c815d75ffc63b266d9bb3da39114150f
